@@ -1,6 +1,6 @@
 ## Fiche Méthode : pour étudier un passage évangélique.
 
-De manière générale, toutes les observations sur le texte ont pour but d’analyser comment se construit la signification du texte. 
+De manière générale, toutes les observations sur le texte ont pour but d’analyser **comment se construit la signification du texte**. 
 
 ### 1) Délimitation du passage
 a) Pourquoi commencer et terminer à tel verset ?  
@@ -34,16 +34,16 @@ c) y a-t-il référence explicite ou implicite ?
 d) qu’apporte la référence à l’AT au le texte du NT ?  
 e) qu’apporte au texte de l’AT cette référence dans le NT ?  
 
-### 7) Si le passage a des parallèles synoptiques :
+### 7) Si le passage a des **parallèles synoptiques** :
 a) avec un code-couleur, repérer les éléments communs et les différences  
 b) comparer également la structure et la place du passage dans chaque évangile  
 c) peut-on repérer des indices de l’histoire du texte ?  
-=> mots ou expressions provenant probablement d’une tradition utilisée par l’évangéliste.  
-=> mots ou expressions qui sont plus probablement liés à la rédaction de l’évangéliste.  
+=> mots ou expressions provenant probablement d’une **tradition** utilisée par l’évangéliste.  
+=> mots ou expressions qui sont plus probablement liés à la **rédaction** de l’évangéliste.  
 d) quelles sont les perspectives théologiques propres à chacun des passages parallèles ?  
 
 ### 8) Le regard de l’historien : 
 à partir de l’analyse et des critères d’historicité, quels éléments peut-on saisir de la vie de Jésus, et de ses disciples ?
 
 ###  9) Théologie : 
-comment l’ensemble du travail mené dans les étapes précédentes ouvre-t-il au lecteur moderne l’accès à la signification du texte biblique tel qu’il est écrit ? 
+comment l’ensemble du travail mené dans les étapes précédentes ouvre-t-il au lecteur moderne l’accès à la _signification_ du texte biblique _tel qu’il est écrit_ ? 
