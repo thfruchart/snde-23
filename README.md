@@ -7,3 +7,4 @@
 * Mt 3-4 = [cours2.pdf](COURS2.pdf)
   * [Cours du 15 mars](2023-03-15.md)
   * [Cours du 22 mars](2023-03-22.md)
+* Mt 5-7 : discours sur la montagne
