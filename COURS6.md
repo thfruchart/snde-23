@@ -18,7 +18,7 @@ Pour justifier vos choix, il s'agit toujours d'argumenter à partir des observat
 
 ## Contexte
 
-![](/media/thomas/FRUCHART_T/1_SNDE/Synoptiques/AnnéeB/Lc/Lc4/Lc4-03.jpg)
+![](Lc4-03.jpg)
 
 Globalement, Lc suit **Mc 1**, avec deux exceptions
 
