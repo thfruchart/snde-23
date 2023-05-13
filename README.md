@@ -12,5 +12,5 @@
   * [Cours du 12 avril](2023-04-12.md)
 * Mt 8-9 : dix récits de miracle = [cours4.pdf](COURS4.pdf)
 # Luc
-prochain cours : 
-* Lc 1-2
+* [Lc 1-2](COURS5.md)
+* [Lc 4 : discours à Nazareth](COURS6.md)
