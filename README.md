@@ -15,3 +15,7 @@
 * [Lc 1-2](COURS5.md)  = [cours5.pdf](COURS5.pdf)
 * [Lc 4 : discours à Nazareth](COURS6.md)  = [cours6.pdf](COURS6.pdf)
 * [Lc 7 : Jésus à Naïn](COURS7.md)  = [cours7.pdf](COURS7.pdf)
+* Lc 15 : Paraboles  = [cours8.pdf](COURS8.pdf)
+
+* Récits de la PASSION  = [cours9.pdf](COURS9.pdf)
+* Résurrection  = [cours10.pdf](COURS10.pdf)
